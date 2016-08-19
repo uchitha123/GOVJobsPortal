@@ -1,0 +1,20 @@
+@CHARSET "ISO-8859-1";
+
+.inputclass::-webkit-input-placeholder {
+text-align: center;
+}
+
+.header {
+    vertical-align: middle;
+	color: white;
+    font-weight: bold;
+    font-size: 30px;    
+    text-decoration: none;
+    border-bottom-color: white;   
+    background-color: #0b0c0c;
+	height: 45px; 
+}
+
+.vcontainer {
+   min-height: 10em;
+}
